@@ -1,3 +1,4 @@
+import javax.swing.*;
 import java.sql.*;
 
 public class DatabaseDriver {
@@ -8,8 +9,8 @@ public class DatabaseDriver {
     Connection conn = null;
     Statement stmt;
 
-    public static void main(String[] args) {
-        new DatabaseDriver().runMe();
+    public DatabaseDriver(){
+
     }
 
     public void runMe(){
