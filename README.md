@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  ![jdbcImage](https://user-images.githubusercontent.com/64375555/147841111-9da8848d-e5d9-4c66-8cac-9738c5dcfe36.png)
+  ![jdbcImage](https://user-images.githubusercontent.com/64375555/147841322-872aec74-39c5-4669-aacf-093779d5eeca.png)
 
   <h3 align="center">JDBC Final Project</h3>
 
