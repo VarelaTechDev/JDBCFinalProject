@@ -51,7 +51,7 @@ Experience with Java to link the program to your MySQL server.
 
 Clone the repo
  ```sh
- git clone https://github.com/your_username_/Project-Name.git
+ git clone https://github.com/ArisaBonsaiTree/JDBCFinalProject.git
  ```
 
 Run MySQL and run the files in the following order: CreateProjectDB.SQL then PopulateProjectDB.sql
