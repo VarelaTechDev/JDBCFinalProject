@@ -65,7 +65,7 @@ Click run in your IDE
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+My professor claims this is now my college property. They won't hunt you down or track you if you use this.
 
 If you're going to just copy and paste it for your school project without modfying it, keep in mind I submitted this code to my professor. **You have been warned**
 
