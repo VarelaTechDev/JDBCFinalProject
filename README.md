@@ -58,8 +58,10 @@ Run MySQL and run the files in the following order: CreateProjectDB.SQL then Pop
 
 Open src and go into DatabaseDriver.java and edit the database variables to connect to your database
 
-Download mysql-connector and place it in the src folder or set it up in your IDE
+Download mysql-connector.jar
 https://static.javatpoint.com/src/jdbc/mysql-connector.jar
+
+File > Project Structure > Libraries > Point to "mysql-connector.jar"
 
 Click run in your IDE
 
